@@ -173,3 +173,10 @@
 	  {
 		  background-image: url(/assets/table.jpg);
 	  }
+
+	  .backgroundImage
+	  {
+		width: 600px;
+		height:800px;
+		
+	  }

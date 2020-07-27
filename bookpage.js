@@ -5,6 +5,8 @@ $(function book()
     height: 800,
     closed: true,
     covers: true,
-    autoCenter: true
+    autoCenter: true,
+    closedFrontTitle: "BySeaggs",
+    pagePadding:0
   });
 });
